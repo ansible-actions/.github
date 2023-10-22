@@ -9,4 +9,4 @@ You find here some actions that will help you publish and lint ansible collectio
 + [yamllint-action](https://github.com/marketplace/actions/yamllint-action) - Linting Yaml files using the yamllint
 + [j2lint-action](https://github.com/marketplace/actions/jinja2-linting-action) - Linting Jinja2 files using the j2lint
 
-[![actions](profile/image.svg)](profile/README.md)
+[![actions](/profile/image.svg)](/profile/README.md)
